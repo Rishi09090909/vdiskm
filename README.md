@@ -6,7 +6,7 @@
 - See it in action at [https://tiiny.deta.dev](https://tiiny.deta.dev)
 
 
-[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/viperadnan-git/tiiny)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/Rishi09090909-git/vdiskm)
 
 ## Deploy
 - Set Deta API key for database.
